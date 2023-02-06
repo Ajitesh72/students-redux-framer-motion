@@ -1,0 +1,16 @@
+.Navbar{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em ;
+    color: aliceblue;
+  }
+  .Navbar-title{
+    cursor: pointer;
+    gap: 3em;
+    position: relative;
+  }
+  .Navbar-title:hover{
+    text-decoration:underline;
+  }
+  
